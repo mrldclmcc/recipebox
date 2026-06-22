@@ -2281,5 +2281,66 @@
       "paleo-friendly",
       "make-ahead"
     ]
+  },
+  {
+    "id": "jalapeno-oil",
+    "title": "Jalapeño Oil",
+    "source": {
+      "book": "Everyone's Table",
+      "author": "Gregory Gourdet"
+    },
+    "date_added": "2026-06-22",
+    "servings": null,
+    "ingredients": [
+      {
+        "name": "avocado oil",
+        "amount": 1,
+        "unit": "cup"
+      },
+      {
+        "name": "jalapeno chiles",
+        "amount": 3,
+        "unit": null,
+        "notes": "large, stemmed and halved lengthwise"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Combine the oil, chiles, and salt in a medium saucepan, set it over medium-high heat, and wait until bubbles form around the chiles.",
+      "Reduce the heat to medium-low and let the chiles sizzle just until they turn a brighter shade of green, about 2 minutes.",
+      "Turn off the heat and let the mixture cool.",
+      "Transfer to a blender, making sure to scrape any salt that has collected in the bottom of the pan into the blender as well. Puree until as smooth as possible, about 1 minute."
+    ],
+    "equipment": [
+      "saucepan",
+      "blender"
+    ],
+    "facets": {
+      "meal": [
+        "side"
+      ],
+      "protein": [
+        "none"
+      ],
+      "method": [
+        "stovetop"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "condiment"
+    ]
   }
 ]
