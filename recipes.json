@@ -2605,5 +2605,151 @@
       "cdmx",
       "seafood"
     ]
+  },
+  {
+    "id": "seafood-rice-with-roasted-tomato-green-chile-2",
+    "title": "Seafood Rice with Roasted Tomato & Green Chile # 2",
+    "source": {
+      "book": null,
+      "author": "Rick Bayless"
+    },
+    "date_added": "2026-06-22",
+    "servings": 4,
+    "prep_minutes": null,
+    "cook_minutes": null,
+    "total_minutes": null,
+    "ingredients": [
+      {
+        "name": "white onion",
+        "amount": 1,
+        "unit": null,
+        "notes": "small, sliced about 1/2-inch thick"
+      },
+      {
+        "name": "garlic",
+        "amount": 3,
+        "unit": "clove",
+        "notes": "unpeeled"
+      },
+      {
+        "name": "jalapeño chile",
+        "amount": 2,
+        "unit": null,
+        "notes": "fresh (or 4 serranos or 1 habanero or practically any fresh hot chile)"
+      },
+      {
+        "name": "diced tomatoes",
+        "amount": 1,
+        "unit": "can",
+        "notes": "15-ounce; preferably fire-roasted, undrained"
+      },
+      {
+        "name": "vegetable or olive oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "rice",
+        "amount": 1,
+        "unit": "cup",
+        "notes": null
+      },
+      {
+        "name": "chicken broth",
+        "amount": 4,
+        "unit": "cup",
+        "notes": null
+      },
+      {
+        "name": "fish fillet",
+        "amount": 0.5,
+        "unit": "lb",
+        "notes": "meaty, skinless (mahimahi, halibut, sea bass), cut into 1-inch pieces"
+      },
+      {
+        "name": "mussels",
+        "amount": 12,
+        "unit": null,
+        "notes": "big (about 6 ounces) OR about 12 ounces clams"
+      },
+      {
+        "name": "epazote",
+        "amount": 1,
+        "unit": null,
+        "notes": "big sprig (if you have it)"
+      },
+      {
+        "name": "shrimp",
+        "amount": 12,
+        "unit": null,
+        "notes": "medium-large (about 9 ounces), peeled and deveined, if you wish"
+      },
+      {
+        "name": "cilantro or flat-leaf parsley",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": "chopped"
+      },
+      {
+        "name": "salt",
+        "amount": null,
+        "unit": null,
+        "notes": "to taste (can range from none to 1.5 tsp)"
+      },
+      {
+        "name": "lime",
+        "amount": 1,
+        "unit": null,
+        "notes": "cut into wedges"
+      }
+    ],
+    "steps": [
+      "Heat your broiler.",
+      "On a baking sheet, lay out the onion slices, unpeeled garlic and chiles (if using jalapeños, cut them in half lengthwise).",
+      "Roast them about 4 inches below the hot broiler for 5 or 6 minutes, until they are blistered and blackened in spots, then flip them over and roast the other side.",
+      "Scrape them into a food processor or blender, add the tomatoes (juice and all) and process to a coarse puree.",
+      "In a large (4-quart) saucepan, heat the oil over medium-high.",
+      "When hot, add the tomato seasoning and stir until the mixture is thick and shiny, about 5 minutes.",
+      "Add the rice and stir for another minute or so, then add the broth and bring to a rolling boil.",
+      "Reduce the heat so that the broth very gently simmers and add the fish, mussels (or clams) and epazote (if you have it).",
+      "Cover the pot and set the timer for 15 minutes.",
+      "When the timer goes off, taste a kernel of rice: If it's still crunchy inside, re-cover the pot and cook a couple of minutes longer.",
+      "If it's close to done, add the shrimp, re-cover the pot, turn off the heat and let the shrimp cook gently in the warm, steamy environment for 2 or 3 minutes.",
+      "Stir in the cilantro or parsley, then taste and season with salt.",
+      "Ladle into bowls and serve with the lime wedges for each person to squeeze on al gusto."
+    ],
+    "equipment": [
+      "broiler",
+      "baking-sheet",
+      "food-processor",
+      "blender",
+      "saucepan"
+    ],
+    "facets": {
+      "meal": [
+        "dinner"
+      ],
+      "protein": [
+        "fish",
+        "shellfish"
+      ],
+      "method": [
+        "stovetop",
+        "roast"
+      ],
+      "dietary": [
+        "dairy-free",
+        "gluten-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "mexican",
+      "arroz-a-la-tumbada",
+      "one-pot"
+    ]
   }
 ]
