@@ -2342,5 +2342,121 @@
     "tags": [
       "condiment"
     ]
+  },
+  {
+    "id": "tostadas-de-atun-o-trucha",
+    "title": "TOSTADAS DE ATÚN O TRUCHA",
+    "source": {
+      "book": "My Mexico City Kitchen",
+      "author": "Gabriela Cámara"
+    },
+    "date_added": "2026-06-22",
+    "servings": 8,
+    "ingredients": [
+      {
+        "name": "leek",
+        "amount": 1,
+        "unit": null,
+        "notes": "thick, white part only, sliced into 1/8-inch / 3mm-thick rounds"
+      },
+      {
+        "name": "rice bran oil",
+        "amount": 2,
+        "unit": "cup",
+        "notes": "or safflower oil, or any vegetable oil with a high smoke point (480ml)"
+      },
+      {
+        "name": "corn tortillas",
+        "amount": 8,
+        "unit": null,
+        "notes": "stale"
+      },
+      {
+        "name": "tuna",
+        "amount": 12,
+        "unit": "oz",
+        "notes": "sashimi-grade, or trout, or other fatty fish, thinly sliced against the grain (340g)"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "soy sauce",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "60ml"
+      },
+      {
+        "name": "orange juice",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "freshly squeezed (60ml)"
+      },
+      {
+        "name": "Mayonesa con Chipotle",
+        "amount": 2,
+        "unit": "tbsp",
+        "notes": "plus 2 tsp"
+      },
+      {
+        "name": "avocado",
+        "amount": 1,
+        "unit": null,
+        "notes": "cut in half, pitted, peeled, and cut into 8 to 16 slices"
+      },
+      {
+        "name": "Maldon sea salt",
+        "amount": null,
+        "unit": null,
+        "notes": "or another finishing salt"
+      },
+      {
+        "name": "lime",
+        "amount": null,
+        "unit": "slice",
+        "notes": "wedges for serving"
+      }
+    ],
+    "steps": [
+      "Place the leeks in a bowl of cold water and separate the rings. Remove any green rings and reserve these for making stock. Transfer the white rings to a dish towel to dry out for at least 15 minutes so that they're completely dry before frying.",
+      "Warm the rice bran or safflower oil in a large heavy-bottom saucepan or deep skillet over medium-high heat (oil should be at least 2 inches / 5cm deep) to 350°F / 180°C. You can test the temperature with an instant-read thermometer or by submerging a wooden spoon.",
+      "Fry the tortillas one at a time for about 2 minutes each. Use a pair of chopsticks or two forks to hold down the two edges so that the tortilla doesn't curl up. Once golden, remove from the oil and let it drain on a plate lined with a brown paper bag. Let them all cool for at least 15 minutes while you prepare the rest of the ingredients.",
+      "Using the same oil, fry the leeks: Decrease the oil temperature slightly to 300°F / 150°C. Drop in the leeks and move them around constantly while they fry so they cook and color evenly. The instant you see the leeks turning golden, remove them with a slotted spoon and set them on the plate to cool completely.",
+      "Marinate the fish: Place the fish in a bowl and drizzle it with the olive oil so that the citrus and soy sauce don't bite into the fish and give it a gray cast. After lightly coating the fish with oil, immediately add the soy sauce and orange juice, toss, and let sit for 5 minutes.",
+      "Once the tortillas are cool, spread 1 tsp of the chipotle mayonnaise on each one. (Ensure tortillas are cool so the mayonnaise does not melt.)",
+      "On top of the mayonnaise, distribute the sliced fish in one layer. Scatter with the fried leeks and top with the avocado.",
+      "Just before serving, add a pinch of the finishing salt. Serve with lime wedges on the side."
+    ],
+    "equipment": [
+      "saucepan",
+      "skillet",
+      "thermometer",
+      "slotted-spoon"
+    ],
+    "facets": {
+      "meal": [
+        "appetizer"
+      ],
+      "protein": [
+        "fish"
+      ],
+      "method": [
+        "stovetop"
+      ],
+      "dietary": [
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "raw-fish",
+      "japanese-fusion"
+    ],
+    "total_minutes": null
   }
 ]
