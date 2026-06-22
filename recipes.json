@@ -2080,5 +2080,71 @@
       "cake"
     ],
     "total_minutes": 50
+  },
+  {
+    "id": "chocolate-olive-oil-sauce-superiority-burger",
+    "title": "Chocolate--Olive Oil Sauce",
+    "source": {
+      "book": "Superiority Burger Cookbook",
+      "author": "Brooks Headley"
+    },
+    "date_added": "2026-06-22",
+    "servings": "about 1 cup",
+    "ingredients": [
+      {
+        "name": "dark chocolate",
+        "amount": 8,
+        "unit": "oz",
+        "notes": "good quality"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "salt",
+        "amount": null,
+        "unit": null,
+        "notes": "season aggressively"
+      }
+    ],
+    "steps": [
+      "Melt the chocolate in a bowl set over a pan of simmering water.",
+      "Slowly stream in the olive oil while whisking constantly.",
+      "Season aggressively with salt.",
+      "Use immediately or, if it cools and hardens, just warm it up to bring it back to liquid."
+    ],
+    "equipment": [
+      "mixing-bowl",
+      "saucepan",
+      "whisk"
+    ],
+    "facets": {
+      "meal": [
+        "snack",
+        "dessert"
+      ],
+      "protein": [
+        "none"
+      ],
+      "method": [
+        "stovetop"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "superiority-burger",
+      "sauce",
+      "chocolate"
+    ],
+    "total_minutes": 10
   }
 ]
