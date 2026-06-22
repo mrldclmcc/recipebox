@@ -2458,5 +2458,152 @@
       "japanese-fusion"
     ],
     "total_minutes": null
+  },
+  {
+    "id": "pescado-a-la-talla",
+    "title": "Pescado a la Talla (Contramar’s Signature Red and Green Grilled Red Snapper)",
+    "source": {
+      "book": "My Mexico City Kitchen",
+      "author": "Gabriela Cámara"
+    },
+    "date_added": "2026-06-22",
+    "servings": "4-6",
+    "prep_minutes": null,
+    "cook_minutes": null,
+    "total_minutes": null,
+    "ingredients": [
+      {
+        "name": "garlic",
+        "amount": 4,
+        "unit": "clove",
+        "notes": null
+      },
+      {
+        "name": "parsley leaves",
+        "amount": 2,
+        "unit": "cup",
+        "notes": "40g"
+      },
+      {
+        "name": "safflower oil",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": "120ml"
+      },
+      {
+        "name": "ground cumin",
+        "amount": null,
+        "unit": "pinch",
+        "notes": null
+      },
+      {
+        "name": "sea salt",
+        "amount": 1,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "safflower oil",
+        "amount": null,
+        "unit": null,
+        "notes": "for brushing grill"
+      },
+      {
+        "name": "red snapper",
+        "amount": 1,
+        "unit": null,
+        "notes": "whole, butterflied, OR 4 (8 oz / 230g) boneless red snapper fillets, with skin on"
+      },
+      {
+        "name": "sea salt",
+        "amount": null,
+        "unit": null,
+        "notes": "to taste"
+      },
+      {
+        "name": "Adobo de Chiles Rojos",
+        "amount": 1,
+        "unit": "cup",
+        "notes": "240ml; red chile rub"
+      },
+      {
+        "name": "Salsa Roja Asada",
+        "amount": 1,
+        "unit": "recipe",
+        "notes": "or another red salsa of your choosing"
+      },
+      {
+        "name": "Salsa Verde Cruda",
+        "amount": 1,
+        "unit": "recipe",
+        "notes": "or another green salsa of your choosing"
+      },
+      {
+        "name": "Tortillas de Maiz",
+        "amount": 1,
+        "unit": "recipe",
+        "notes": "warmed"
+      },
+      {
+        "name": "Frijoles Refritos",
+        "amount": 1,
+        "unit": "recipe",
+        "notes": null
+      },
+      {
+        "name": "salsa",
+        "amount": null,
+        "unit": null,
+        "notes": "of your choosing"
+      },
+      {
+        "name": "lime",
+        "amount": null,
+        "unit": null,
+        "notes": "wedges"
+      }
+    ],
+    "steps": [
+      "To make the green sauce: Place the garlic, parsley, oil, cumin, and salt in the jar of a blender and puree until smooth.",
+      "Once you are ready to cook your fish, heat a grill to medium or a grill pan over medium heat. Brush the cooking surface with oil so that the fish won’t stick.",
+      "Clean your fish well, then pat it dry.",
+      "Using a sharp knife, crosshatch the flesh on the diagonal, making cuts about 1/2 inch (12mm) deep and 1 inch (2.5cm) apart.",
+      "Sprinkle the fish with salt.",
+      "Paint the sauces onto the fish: If using fillets, spread two with 1/2 cup (120ml) of the red sauce each and the other two with 1/2 cup (120ml) of the green sauce. If using a butterflied whole fish, spread the red sauce on one half and the green sauce on the other half. Be careful to coat the entire surface and work the sauce into the crosshatched knife marks.",
+      "Grill the fish, skin-side down, until it’s almost cooked through, 7 to 10 minutes.",
+      "Using a spatula, carefully flip it over and cook the flesh side until it has char marks and easily releases from the grill or pan.",
+      "Place it flesh-side up on a platter or onto individual plates.",
+      "Serve with the warm tortillas, a bowl of refried black beans, whatever salsa you wish, and wedges of lime."
+    ],
+    "equipment": [
+      "blender",
+      "grill",
+      "grill-pan",
+      "chef-knife",
+      "spatula",
+      "tongs"
+    ],
+    "facets": {
+      "meal": [
+        "dinner"
+      ],
+      "protein": [
+        "fish"
+      ],
+      "method": [
+        "grill"
+      ],
+      "dietary": [
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "mexican",
+      "cdmx",
+      "seafood"
+    ]
   }
 ]
