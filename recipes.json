@@ -1808,5 +1808,134 @@
       "fudgy",
       "gift-giving"
     ]
+  },
+  {
+    "id": "coconut-milk-chicken-adobo",
+    "title": "Coconut Milk Chicken Adobo",
+    "source": {
+      "book": "Filipinx: Heritage Recipes from the Diaspora",
+      "author": "Angela Dimayuga"
+    },
+    "date_added": "2026-06-22",
+    "servings": "6-8",
+    "ingredients": [
+      {
+        "name": "coconut oil",
+        "amount": 2,
+        "unit": "tbsp",
+        "notes": "store-bought or homemade"
+      },
+      {
+        "name": "black peppercorns",
+        "amount": 2,
+        "unit": "tsp",
+        "notes": "whole"
+      },
+      {
+        "name": "black pepper",
+        "amount": 1,
+        "unit": "tsp",
+        "notes": "coarsely cracked"
+      },
+      {
+        "name": "red pepper flakes",
+        "amount": 0.5,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "chicken drumsticks and thighs",
+        "amount": 4,
+        "unit": "lb",
+        "notes": "bone in and skin on"
+      },
+      {
+        "name": "garlic",
+        "amount": 15,
+        "unit": "clove",
+        "notes": "smashed and peeled"
+      },
+      {
+        "name": "coconut milk",
+        "amount": 1,
+        "unit": "cup",
+        "notes": "unsweetened, full-fat"
+      },
+      {
+        "name": "coconut vinegar",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": "or rice vinegar"
+      },
+      {
+        "name": "soy sauce",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": null
+      },
+      {
+        "name": "bay leaves",
+        "amount": 8,
+        "unit": null,
+        "notes": "fresh or dried"
+      },
+      {
+        "name": "serrano chile",
+        "amount": 1,
+        "unit": null,
+        "notes": "whole fresh"
+      },
+      {
+        "name": "water",
+        "amount": 1,
+        "unit": "cup",
+        "notes": "added during cooking"
+      },
+      {
+        "name": "steamed rice",
+        "amount": null,
+        "unit": null,
+        "notes": "for serving"
+      }
+    ],
+    "steps": [
+      "In a large pot, heat the coconut oil on medium until shimmering. Add the whole peppercorns, coarsely cracked black pepper, and red pepper flakes.",
+      "Lay the drumsticks and thighs in the pan, skin side down, and raise the heat to medium high. Cook for about 5 minutes undisturbed, until the fat starts to render and the skin turns slightly brown.",
+      "Using kitchen tweezers or tongs, flip over the chicken.",
+      "Add the garlic, coconut milk, vinegar, soy sauce, bay leaves, serrano chile, and 1 cup (240 ml) water. Let the mixture come to a boil.",
+      "Put a lid on the pot, reduce the heat to medium low, and simmer for 1 to 1 1/2 hours, stirring occasionally. The chicken should feel loose, almost ready to slip off the bone.",
+      "Remove the lid, raise the temperature to medium high, and reduce the sauce by cooking uncovered for another 15 minutes, stirring occasionally, until the sauce is thick as velvet.",
+      "Serve over rice to soak up the sauce."
+    ],
+    "equipment": [
+      "large-pot",
+      "tongs",
+      "lid"
+    ],
+    "facets": {
+      "meal": [
+        "dinner"
+      ],
+      "protein": [
+        "chicken"
+      ],
+      "method": [
+        "braise",
+        "stovetop"
+      ],
+      "dietary": [
+        "dairy-free",
+        "gluten-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "traditional",
+      "filipino",
+      "coconut-milk"
+    ],
+    "total_minutes": 115
   }
 ]
