@@ -2146,5 +2146,140 @@
       "chocolate"
     ],
     "total_minutes": 10
+  },
+  {
+    "id": "creamy-cashew-dip-with-jalapeno-and-seedy-seaweed-crackers",
+    "title": "Creamy Cashew Dip with Jalapeño and Seedy Seaweed Crackers",
+    "source": {
+      "book": "Everyone's Table",
+      "author": "Gregory Gourdet"
+    },
+    "date_added": "2026-06-22",
+    "servings": "6-8",
+    "ingredients": [
+      {
+        "name": "nori sheets",
+        "amount": 3,
+        "unit": null
+      },
+      {
+        "name": "chia seeds",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "flax seeds",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "raw hulled sunflower seeds",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "name": "scallions",
+        "amount": 3,
+        "unit": null,
+        "notes": "trimmed and thinly sliced"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "clove",
+        "notes": "small, very finely chopped"
+      },
+      {
+        "name": "red chile flakes",
+        "amount": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "flaky sea salt",
+        "amount": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "raw cashews",
+        "amount": 3,
+        "unit": "cup"
+      },
+      {
+        "name": "shallot",
+        "amount": 1,
+        "unit": null,
+        "notes": "medium, roughly chopped"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 1.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "white wine vinegar",
+        "amount": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "jalapeno oil",
+        "amount": 3,
+        "unit": "tbsp",
+        "notes": "3 tbsp total; 2 tbsp blended into dip, 1 tbsp for drizzling"
+      },
+      {
+        "name": "mixed fresh herbs",
+        "amount": null,
+        "unit": null,
+        "notes": "small handful, like small dill and parsley sprigs and oregano leaves"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 300ºF.",
+      "Stack the nori sheets shiny-side down. Use kitchen scissors to cut along the indentations into long strips. Stack those strips and snip them crosswise into ½-inch-wide strips.",
+      "Combine the nori, chia seeds, flax seeds, sunflower seeds, scallions, garlic, chile flakes, and 0.75 cup water in a medium mixing bowl. Stir well and let the mixture sit for about 3 minutes so the chia has time to fully bloom.",
+      "Spread the chia mixture between two 17 × 12-inch sheets of parchment paper into a thin (about ⅛-inch), even layer using a rolling pin or round bottle.",
+      "Transfer the layers to a large sheet pan and slowly peel off the top parchment sheet.",
+      "Sprinkle with the flaky salt and bake for about 45 minutes until crispy. If needed, flip and cook for 10 minutes more.",
+      "Let the cracker cool, then break it into pieces.",
+      "Soak the cashews in 1.5 cups of water in a narrow jar for 1 hour.",
+      "Meanwhile, combine the shallot and kosher salt in a small bowl; let sit for 10 minutes, then stir in the vinegar.",
+      "Transfer the cashews and soaking water to a blender with the shallot mixture and 2 tablespoons of the jalapeño oil. Puree on high until smooth, about 2 minutes.",
+      "Transfer the dip to a bowl and drizzle with the remaining 1 tablespoon of jalapeño oil. Serve with the crackers and herbs."
+    ],
+    "equipment": [
+      "oven",
+      "blender",
+      "mixing-bowl",
+      "parchment-paper",
+      "baking-sheet",
+      "rolling-pin",
+      "jar"
+    ],
+    "facets": {
+      "meal": [
+        "snack",
+        "appetizer"
+      ],
+      "protein": [
+        "none"
+      ],
+      "method": [
+        "bake",
+        "no-cook"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "paleo-friendly",
+      "make-ahead"
+    ]
   }
 ]
