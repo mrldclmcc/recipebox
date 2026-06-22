@@ -1937,5 +1937,148 @@
       "coconut-milk"
     ],
     "total_minutes": 115
+  },
+  {
+    "id": "banana-bread-superiority-burger",
+    "title": "Banana Bread",
+    "source": {
+      "book": "Superiority Burger Cookbook",
+      "author": "Brooks Headley"
+    },
+    "date_added": "2026-06-22",
+    "servings": 8,
+    "ingredients": [
+      {
+        "name": "olive oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "notes": "for greasing the pan"
+      },
+      {
+        "name": "all-purpose flour",
+        "amount": 1.25,
+        "unit": "cup",
+        "notes": null
+      },
+      {
+        "name": "baking soda",
+        "amount": 1,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "kosher salt",
+        "amount": 1,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "ground cinnamon",
+        "amount": 1,
+        "unit": "tsp",
+        "notes": null
+      },
+      {
+        "name": "very ripe bananas",
+        "amount": 1.5,
+        "unit": "cup",
+        "notes": "mashed"
+      },
+      {
+        "name": "banana",
+        "amount": 1,
+        "unit": null,
+        "notes": "roughly chopped"
+      },
+      {
+        "name": "cane sugar",
+        "amount": 0.75,
+        "unit": "cup",
+        "notes": null
+      },
+      {
+        "name": "sour cream",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": "regular or vegan"
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": null
+      },
+      {
+        "name": "pure vanilla extract",
+        "amount": 1,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "turbinado sugar",
+        "amount": null,
+        "unit": null,
+        "notes": "for sprinkling"
+      },
+      {
+        "name": "grapeseed oil",
+        "amount": null,
+        "unit": null,
+        "notes": "for drizzling"
+      },
+      {
+        "name": "coconut sorbet",
+        "amount": null,
+        "unit": null,
+        "notes": "for serving"
+      },
+      {
+        "name": "chocolate--olive oil sauce",
+        "amount": null,
+        "unit": null,
+        "notes": "for serving"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350ºF. Lightly grease a 9-by-5-inch loaf pan.",
+      "Mix together the flour, baking soda, salt, and cinnamon in a large bowl.",
+      "In another bowl, mix together the mashed banana, sugar, sour cream, olive oil, and vanilla.",
+      "Pour the wet ingredients into the bowl with the flour mixture.",
+      "Gently mix everything together—sprinkle in the chopped bananas while mixing and mix until just combined.",
+      "Pour the batter into the loaf pan and sprinkle with a little turbinado sugar.",
+      "Bake for 25 to 35 minutes, until a toothpick inserted into the center comes out clean or with some moist crumbs.",
+      "Let cool a little before slicing.",
+      "To serve, heat a small skillet over medium-high heat. Add a tiny bit of grapeseed oil. Griddle the bread on both sides until golden brown and warmed all the way through. Top with a scoop of coconut sorbet and drizzle with chocolate–olive oil sauce."
+    ],
+    "equipment": [
+      "loaf-pan",
+      "mixing-bowl",
+      "skillet"
+    ],
+    "facets": {
+      "meal": [
+        "snack",
+        "dessert"
+      ],
+      "protein": [
+        "none"
+      ],
+      "method": [
+        "bake",
+        "stovetop"
+      ],
+      "dietary": [
+        "vegetarian"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "superiority-burger",
+      "banana",
+      "cake"
+    ],
+    "total_minutes": 50
   }
 ]
