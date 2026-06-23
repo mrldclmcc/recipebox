@@ -2852,5 +2852,102 @@
     "tags": [
       "bitter-greens"
     ]
+  },
+  {
+    "id": "via-carota-vinaigrette",
+    "title": "Via Carota Vinaigrette",
+    "source": {
+      "book": "Via Carota",
+      "author": "Jody Williams and Rita Sodi"
+    },
+    "date_added": "2026-06-23",
+    "servings": "8 salads",
+    "ingredients": [
+      {
+        "name": "shallot",
+        "amount": 1,
+        "unit": null,
+        "notes": "very finely chopped (¼ cup)"
+      },
+      {
+        "name": "garlic",
+        "amount": 1,
+        "unit": "clove",
+        "notes": "finely grated (about ½ teaspoon)"
+      },
+      {
+        "name": "sugar",
+        "amount": 0.75,
+        "unit": "tsp",
+        "notes": "2 grams"
+      },
+      {
+        "name": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "notes": "1.5 grams"
+      },
+      {
+        "name": "thyme",
+        "amount": 6,
+        "unit": null,
+        "notes": "stems; fresh"
+      },
+      {
+        "name": "aged sherry vinegar",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "60 ml"
+      },
+      {
+        "name": "water",
+        "amount": 2,
+        "unit": "tsp",
+        "notes": "10 ml; warm"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": 0.75,
+        "unit": "cup",
+        "notes": "180 ml"
+      }
+    ],
+    "steps": [
+      "Place the shallots in a fine-mesh strainer and rinse with cold water; drain.",
+      "Transfer the shallots to a small bowl with the garlic, sugar, and salt.",
+      "Strip the thyme leaves off the stems and finely chop the leaves (for about 1 teaspoon thyme); stir into the bowl.",
+      "Stir in the vinegar and water.",
+      "Pour the olive oil into the bowl in a slow stream, whisking all the while until emulsified."
+    ],
+    "equipment": [
+      "fine-mesh-strainer",
+      "small-bowl",
+      "whisk"
+    ],
+    "total_minutes": null,
+    "facets": {
+      "meal": [],
+      "protein": [
+        "none"
+      ],
+      "method": [
+        "no-cook"
+      ],
+      "dietary": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "vinaigrette",
+      "dressing",
+      "pantry-staple",
+      "make-ahead"
+    ]
   }
 ]
