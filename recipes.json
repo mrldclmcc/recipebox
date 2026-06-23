@@ -2949,5 +2949,126 @@
       "pantry-staple",
       "make-ahead"
     ]
+  },
+  {
+    "id": "nikkei-sea-bream-with-yuzu-green-jalapeno-rice-cooked-in-a-clay-pot",
+    "title": "NIKKEI SEA BREAM WITH YUZU & GREEN JALAPEÑO RICE COOKED IN A CLAY POT",
+    "source": {
+      "book": "Nikkei Cuisine",
+      "author": "Luiz Hara"
+    },
+    "date_added": "2026-06-23",
+    "servings": "8–10",
+    "time": {
+      "prep_minutes": 45,
+      "cook_minutes": 15,
+      "total_minutes": 60
+    },
+    "ingredients": [
+      {
+        "name": "short-grain white rice",
+        "amount": 600,
+        "unit": "g",
+        "notes": "originally 1lb 5oz/23⁄4 cups"
+      },
+      {
+        "name": "dashi",
+        "amount": 550,
+        "unit": "ml",
+        "notes": "or water, originally 19fl oz/21⁄2 cups"
+      },
+      {
+        "name": "mirin",
+        "amount": 100,
+        "unit": "ml",
+        "notes": "originally 31⁄2fl oz/1⁄2 cup"
+      },
+      {
+        "name": "light soy sauce",
+        "amount": 100,
+        "unit": "ml",
+        "notes": "originally 31⁄2fl oz/1⁄2 cup"
+      },
+      {
+        "name": "root ginger",
+        "amount": 2.5,
+        "unit": null,
+        "notes": "2.5cm / 1in piece, peeled and cut into fine julienne strips"
+      },
+      {
+        "name": "sea bream fillets",
+        "amount": 4,
+        "unit": null,
+        "notes": "scaled and pin-boned"
+      },
+      {
+        "name": "sansho pepper",
+        "amount": null,
+        "unit": "pinch",
+        "notes": "a sprinkle"
+      },
+      {
+        "name": "green jalapeño chilli",
+        "amount": 1,
+        "unit": null,
+        "notes": "deseeded and finely chopped"
+      },
+      {
+        "name": "spring onions",
+        "amount": 4,
+        "unit": "tbsp",
+        "notes": "finely chopped, scallions"
+      },
+      {
+        "name": "yuzu juice",
+        "amount": 4,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "extra virgin olive oil",
+        "amount": 4,
+        "unit": "tbsp",
+        "notes": null
+      }
+    ],
+    "steps": [
+      "Wash the rice in a bowl with plenty of fresh water using a circular motion with your hand. Drain the water and repeat this rinsing three or four times until the water runs clear. Let the rice drain in a colander for at least 15 minutes.",
+      "Meanwhile, prepare the soaking and cooking broth. Combine the dashi or water, mirin and light soy sauce and set aside. Soak the drained rice in the cooking broth in a donabe or clay pot for 30 minutes.",
+      "Tightly wrap a tea-towel (dish towel) over the lid of a Japanese clay pot (known as donabe). After the soaking and before cooking, scatter half of the ginger strips over the rice, lay the sea bream fillets on the top (I like to arrange the fillets to look like an open flower), place the lid on top and bring to the boil.",
+      "Once boiling, bring the temperature down to the lowest setting and cook for 15 minutes. Turn off the heat, and without opening the lid (don’t open the lid at any stage of the cooking process), rest for a further 15 minutes.",
+      "To make the dressing just put all the dressing ingredients in a bowl and mix together well.",
+      "Take the unopened clay pot to the table, open it in front of your guests and, if desired, carefully remove the skin of the fish. Pour the dressing over the fish and rice then using a wide wooden spoon, fluff the rice well, breaking the fish into tiny pieces and mixing it together with the dressing into the rice. Mix thoroughly. If you are using a rice cooker, follow all the above steps but do not take the rice cooker to the table!",
+      "To serve, place the rice in individual rice bowls, top with the remaining julienned ginger in the centre of each bowl followed by a sprinkle of sansho pepper and serve immediately."
+    ],
+    "equipment": [
+      "donabe",
+      "colander"
+    ],
+    "facets": {
+      "meal": [
+        "dinner"
+      ],
+      "protein": [
+        "fish"
+      ],
+      "method": [
+        "stovetop"
+      ],
+      "dietary": [
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "japanese",
+      "nikkei",
+      "peruvian",
+      "seafood"
+    ],
+    "rating": null,
+    "notes": "See also Naoko Takei Moore's Sea Bream Rice (Tai Meshi) recipe"
   }
 ]
