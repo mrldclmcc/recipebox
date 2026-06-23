@@ -3070,5 +3070,117 @@
     ],
     "rating": null,
     "notes": "See also Naoko Takei Moore's Sea Bream Rice (Tai Meshi) recipe"
+  },
+  {
+    "id": "naoko-takei-moores-sea-bream-rice-tai-meshi",
+    "title": "Naoko Takei Moore's Sea Bream Rice (Tai Meshi)",
+    "source": {
+      "book": "Donabe",
+      "author": "Naoko Takei Moore"
+    },
+    "date_added": "2026-06-23",
+    "servings": "6-8",
+    "time": {
+      "prep_minutes": 50,
+      "cook_minutes": 14,
+      "total_minutes": 84
+    },
+    "ingredients": [
+      {
+        "name": "sea bream",
+        "amount": 1,
+        "unit": null,
+        "notes": "whole small fish, scaled and gutted, can substitute with sea bass, about 1.5 lbs / 700 g"
+      },
+      {
+        "name": "sea salt",
+        "amount": 1.5,
+        "unit": "tsp",
+        "notes": "divided"
+      },
+      {
+        "name": "short grain rice",
+        "amount": 3,
+        "unit": null,
+        "notes": "3 rice-cups / 540 ml, rinsed"
+      },
+      {
+        "name": "dashi",
+        "amount": 2,
+        "unit": "cup",
+        "notes": "or water, 480 ml"
+      },
+      {
+        "name": "sake",
+        "amount": 3,
+        "unit": "tbsp",
+        "notes": null
+      },
+      {
+        "name": "usukuchi shoyu",
+        "amount": 2,
+        "unit": "tbsp",
+        "notes": "light-color soy sauce"
+      },
+      {
+        "name": "kombu",
+        "amount": 1,
+        "unit": "slice",
+        "notes": "about 2” x 4” / 5 cm x 10 cm piece, soaked in dashi/water until soft"
+      },
+      {
+        "name": "ginger",
+        "amount": 50,
+        "unit": "g",
+        "notes": "originally 1.5 oz, cut into very fine shreds"
+      },
+      {
+        "name": "shiitake mushrooms",
+        "amount": 4,
+        "unit": null,
+        "notes": "4 – 6 medium mushrooms, sliced into 1/4” (6 mm) thick"
+      },
+      {
+        "name": "dill",
+        "amount": null,
+        "unit": "pinch",
+        "notes": "for garnish, optional"
+      }
+    ],
+    "steps": [
+      "Season the fish all over with 1 teaspoon sea salt. Let rest for 30 min and pat dry with paper towel.",
+      "Combine the rice, dashi, sake, usukuchi shoyu and the remaining salt in a donabe. Let the rice soak for 20 minutes.",
+      "(Optional process) Wrap the tail of the fish with aluminum, cut a few incisions with a knife on the skin of the fish and broil with a torch just until the skin is lightly browned (but not cooked through).",
+      "Spread the ginger over the rice, followed by the shiitake, in even layers. Place the kombu on top and gently place the fish over the kombu.",
+      "Cover the donabe with a lid and set over high heat. Once the contents starts boiling (6 – 8 minutes), turn down the heat to low and cook for 12 – 14 minutes or until the rice absorbs all the liquid. (If using Kamado-san, follow its standard rice cooking method.)",
+      "Turn off the heat and let it stand for 20 minutes.",
+      "Uncover and gently debone the fish, and fluff with the rice. Serve into individual bowls and garnish with some dill if you like."
+    ],
+    "equipment": [
+      "clay-pot"
+    ],
+    "facets": {
+      "meal": [
+        "dinner"
+      ],
+      "protein": [
+        "fish"
+      ],
+      "method": [
+        "stovetop"
+      ],
+      "dietary": [
+        "dairy-free"
+      ],
+      "season": [
+        "any"
+      ]
+    },
+    "tags": [
+      "japanese",
+      "seafood"
+    ],
+    "rating": null,
+    "notes": null
   }
 ]
