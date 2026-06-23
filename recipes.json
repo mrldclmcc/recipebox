@@ -3182,5 +3182,188 @@
     ],
     "rating": null,
     "notes": null
+  },
+  {
+    "id": "taco-de-pescado-al-carbon-holbox",
+    "title": "TACO DE PESCADO AL CARBON",
+    "source": {
+      "book": "Holbox",
+      "author": "Gilberto Cetina Jr."
+    },
+    "date_added": "2026-06-23",
+    "servings": 4,
+    "time": {
+      "prep_minutes": 70,
+      "cook_minutes": 6,
+      "total_minutes": 76
+    },
+    "ingredients": [
+      {
+        "name": "pacific rockfish fillets",
+        "amount": 1,
+        "unit": "lb",
+        "notes": "skin-on, cut diagonally into 2 oz pieces (8 pieces total); red snapper, white seabass, or black cod are good substitutes"
+      },
+      {
+        "name": "kosher salt",
+        "amount": null,
+        "unit": null,
+        "notes": "for seasoning the fish"
+      },
+      {
+        "name": "olive oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "notes": "for brushing the fish"
+      },
+      {
+        "name": "tortillas",
+        "amount": 1,
+        "unit": "package",
+        "notes": "1 x Tortilla recipe (see page 52/53)"
+      },
+      {
+        "name": "dried morita chiles",
+        "amount": 1,
+        "unit": "oz",
+        "notes": "for Morita sauce"
+      },
+      {
+        "name": "water",
+        "amount": 4,
+        "unit": "cup",
+        "notes": "for Morita sauce"
+      },
+      {
+        "name": "balsamic vinegar",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "for Morita sauce"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "tbsp",
+        "notes": "for Morita sauce"
+      },
+      {
+        "name": "avocado",
+        "amount": 1,
+        "unit": null,
+        "notes": "halved and seeded, for avocado purée"
+      },
+      {
+        "name": "Persian cucumber",
+        "amount": 0.25,
+        "unit": null,
+        "notes": "for avocado purée"
+      },
+      {
+        "name": "lime juice",
+        "amount": 1,
+        "unit": null,
+        "notes": "juice of 1 lime, for avocado purée"
+      },
+      {
+        "name": "water",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": "more if necessary, for avocado purée"
+      },
+      {
+        "name": "kosher salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "notes": "for avocado purée"
+      },
+      {
+        "name": "cherry tomatoes",
+        "amount": 32,
+        "unit": null,
+        "notes": "for pico de gallo"
+      },
+      {
+        "name": "red onion",
+        "amount": 0.25,
+        "unit": null,
+        "notes": "small onion, sliced very thin, for pico de gallo"
+      },
+      {
+        "name": "lime juice",
+        "amount": 1,
+        "unit": null,
+        "notes": "juice of 1 lime, for pico de gallo"
+      },
+      {
+        "name": "cilantro",
+        "amount": 1,
+        "unit": "tbsp",
+        "notes": "minced, for pico de gallo"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": 1,
+        "unit": "tbsp",
+        "notes": "for pico de gallo"
+      },
+      {
+        "name": "mayonnaise",
+        "amount": 2,
+        "unit": "tbsp",
+        "notes": "high-quality, for garnish"
+      },
+      {
+        "name": "red cabbage",
+        "amount": 0.25,
+        "unit": null,
+        "notes": "sliced very thin, for garnish"
+      },
+      {
+        "name": "lime",
+        "amount": 1,
+        "unit": null,
+        "notes": "cut into 8 wedges, for garnish"
+      }
+    ],
+    "steps": [
+      "For the Morita sauce, bring 4 cups of water to a boil in a saucepan. Place the dried morita chiles in a bowl, pour the boiling water over them and let them steep for at least 1 hour, preferably overnight.",
+      "Remove the chiles from the water and place in a blender with 2 cups of the soaking liquid, balsamic vinegar, and kosher salt. Blend on high until smooth, pass through a strainer, and reserve in the refrigerator.",
+      "For the avocado purée, halve the avocado, remove the seed and scoop out the flesh into the cup of a blender along with the cucumber, lime juice, water, and salt. Purée on medium speed until smooth and creamy, adding more water if necessary to make the blender run. Cover with plastic wrap tight against the surface of the purée and hold in the refrigerator.",
+      "For the pico de gallo, mix the cherry tomatoes, red onion, lime juice, cilantro, and extra-virgin olive oil together in a bowl. Reserve in the refrigerator until needed.",
+      "Preheat the grill on medium-high heat and cut the fish fillets diagonally into 2 oz pieces (8 pieces total). Pat dry with a paper towel. Brush each piece of fish with olive oil on both sides then lightly season with a sprinkling of kosher salt.",
+      "Place the fish on the grill and cook skin-side down for 3-4 minutes, or until the skin is well browned and crispy. Flip over and cook for an additional 2 minutes or until the fish is fully cooked. Remove from the heat and place on a paper towel lined plate in a warm place.",
+      "To assemble the tacos, place two tortillas on a plate, add a bit of mayonnaise, some sliced cabbage, and then the grilled fish. Garnish with pico de gallo, a dash of the morita sauce, and avocado purée. Repeat the process for all 8 tacos. Serve with a wedge of lime on the side."
+    ],
+    "equipment": [
+      "saucepan",
+      "blender",
+      "grill"
+    ],
+    "facets": {
+      "meal": [
+        "lunch",
+        "dinner"
+      ],
+      "protein": [
+        "fish"
+      ],
+      "method": [
+        "grill"
+      ],
+      "dietary": [
+        "dairy-free"
+      ],
+      "season": [
+        "summer",
+        "any"
+      ]
+    },
+    "tags": [
+      "tacos",
+      "mexican",
+      "seafood"
+    ],
+    "rating": null,
+    "notes": "Makes 8 tacos total."
   }
 ]
