@@ -2751,5 +2751,106 @@
       "arroz-a-la-tumbada",
       "one-pot"
     ]
+  },
+  {
+    "id": "radicchio-trevisano",
+    "title": "Radicchio Trevisano",
+    "source": {
+      "book": "Via Carota",
+      "author": "Jody Williams and Rita Sodi"
+    },
+    "date_added": "2026-06-23",
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "dried currants",
+        "amount": 2,
+        "unit": "tbsp",
+        "notes": "15 grams"
+      },
+      {
+        "name": "water",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "60 ml; warm"
+      },
+      {
+        "name": "aged sherry vinegar or red wine vinegar",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "60 ml"
+      },
+      {
+        "name": "radicchio Trevisano",
+        "amount": 2,
+        "unit": null,
+        "notes": "heads; halved lengthwise through the core"
+      },
+      {
+        "name": "extra-virgin olive oil",
+        "amount": null,
+        "unit": null,
+        "notes": "for brushing"
+      },
+      {
+        "name": "salt",
+        "amount": null,
+        "unit": null,
+        "notes": "for seasoning"
+      },
+      {
+        "name": "Via Carota Vinaigrette",
+        "amount": 0.25,
+        "unit": "cup",
+        "notes": "60 ml"
+      },
+      {
+        "name": "pine nuts",
+        "amount": 2,
+        "unit": "tbsp",
+        "notes": "20 grams; toasted"
+      },
+      {
+        "name": "soft goat cheese",
+        "amount": 2,
+        "unit": "oz",
+        "notes": "55 grams"
+      }
+    ],
+    "steps": [
+      "Place the currants in a cup and soak them in warm water and vinegar until soft and plump, about 30 minutes; drain though a fine-mesh sieve.",
+      "Preheat a grill or a heavy grill pan over medium-high heat.",
+      "Brush the radicchio with olive oil and salt and grill, turning occasionally, until lightly browned and wilted, about 10 minutes.",
+      "Toss it in a bowl with vinaigrette and transfer to a plate.",
+      "Sprinkle with pine nuts and the currants and crumble goat cheese on top."
+    ],
+    "equipment": [
+      "fine-mesh-sieve",
+      "grill",
+      "grill-pan",
+      "mixing-bowl"
+    ],
+    "total_minutes": 40,
+    "facets": {
+      "meal": [
+        "side"
+      ],
+      "protein": [
+        "none"
+      ],
+      "method": [
+        "grill"
+      ],
+      "dietary": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "season": [
+        "winter"
+      ]
+    },
+    "tags": [
+      "bitter-greens"
+    ]
   }
 ]
